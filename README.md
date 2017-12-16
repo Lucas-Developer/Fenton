@@ -7,8 +7,8 @@ Fenton é um simples Reverse Shell. Reverse Shell é um programa que por meio da
 
 ## Uso
 
-Baixe os arquivos, inicie o server.py na maquina que quer controlar, e inicie o client.py em uma outra maquina qualquer. Tudo que voce digitar no client sera executado na linha de comando do server.
+Baixe os arquivos, inicie o server.py na maquina que quer controlar, e inicie o client.py em uma outra maquina qualquer. Tudo que você digitar no client será executado na linha de comando do server.
 
 ## Motivação
 
-Queria criar um programa que automatizasse as coisas e permitisse que eu me tornasse mais preguiçoso que ja sou e assim pudesse controlar as minhas maquinas pelo terminal do meu celular sem precisar levantar da cama xD
+Queria criar um programa que automatizasse as coisas e permitisse que eu me tornasse mais preguiçoso que já sou e assim pudesse controlar as minhas maquinas pelo terminal do meu celular sem precisar levantar da cama xD
